@@ -1,0 +1,14 @@
+C:\Users\sures\Loggerapp\Loggerapp\bin\Debug\net8.0\Loggerapp.exe
+C:\Users\sures\Loggerapp\Loggerapp\bin\Debug\net8.0\Loggerapp.deps.json
+C:\Users\sures\Loggerapp\Loggerapp\bin\Debug\net8.0\Loggerapp.runtimeconfig.json
+C:\Users\sures\Loggerapp\Loggerapp\bin\Debug\net8.0\Loggerapp.dll
+C:\Users\sures\Loggerapp\Loggerapp\bin\Debug\net8.0\Loggerapp.pdb
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\Loggerapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\Loggerapp.AssemblyInfoInputs.cache
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\Loggerapp.AssemblyInfo.cs
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\Loggerapp.csproj.CoreCompileInputs.cache
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\Loggerapp.dll
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\refint\Loggerapp.dll
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\Loggerapp.pdb
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\Loggerapp.genruntimeconfig.cache
+C:\Users\sures\Loggerapp\Loggerapp\obj\Debug\net8.0\ref\Loggerapp.dll
